@@ -1,4 +1,4 @@
-# tornado_bootro
+# tornado_bootrom
 
 This contains the required files to bypass Download Agent Authentication and Serial Link authentication and allows you to unbrick your devices without using paid tools 
 Works on Devices with codename `tornado`:-  
